@@ -1,31 +1,18 @@
-<div align="center">
+# 💜 Grama Suvidha Nexus
 
-# 🌸 Grama Suvidha Nexus
-
-### Smart Village Development & Emergency Assistance Platform
-
-<img width="180" src="PASTE_LOGO_OR_PROFILE_IMAGE_HERE"/>
-
-<br>
-
-![Java](https://img.shields.io/badge/Java-Android-orange?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-Backend-yellow?style=for-the-badge)
-![Android Studio](https://img.shields.io/badge/Android-Studio-green?style=for-the-badge)
-![ML](https://img.shields.io/badge/AI-Smart_System-purple?style=for-the-badge)
-
-</div>
+## Smart Village Development & Emergency Assistance Platform
 
 ---
 
-# ✨ About Project
+# 🌸 About Project
 
-Grama Suvidha Nexus is a smart village development application designed to improve rural digital services through technology and emergency assistance systems.
+Grama Suvidha Nexus is a smart village Android application developed using **Kotlin (MainActivity.kt)** with a modern purple aesthetic UI.
 
-The application helps citizens manage:
+The application focuses on:
 
-- 🚧 Smart Road Development
-- 💧 Water Supply Management
-- 🌳 Tree Plantation Tracking
+- 🚧 Smart Road Monitoring
+- 💧 Water Supply Tracking
+- 🌳 Tree Plantation Monitoring
 - 🏥 Health Camp Monitoring
 - 🚨 Emergency Assistance
 - 👤 User Profile Management
@@ -35,133 +22,43 @@ The application helps citizens manage:
 
 # 📱 Application Screens
 
----
-
-# 🌸 Welcome Screen
-
-<div align="center">
-
-<img width="250" src="PASTE_WELCOME_SCREENSHOT_HERE"/>
-
-<img width="250" src="PASTE_KANNADA_WELCOME_SCREENSHOT_HERE"/>
-
-</div>
+## 🌸 Login Screen
+📸 Screenshot Added Successfully
 
 ---
 
-# 🏠 Home Dashboard
-
-<div align="center">
-
-<img width="250" src="PASTE_HOME_SCREENSHOT_HERE"/>
-
-</div>
+## 🏠 Dashboard Screen
+📸 Screenshot Added Successfully
 
 ---
 
-# 🚧 Smart Road Development
-
-<div align="center">
-
-<img width="250" src="PASTE_SMART_ROAD_SCREENSHOT_HERE"/>
-
-</div>
-
-### Features
-
-- 📊 Progress Tracking
-- ⭐ Rating System
-- 📝 Issue Reporting
-- 🗺 Navigation Support
+## 🚧 Smart Road Development
+📸 Screenshot Added Successfully
 
 ---
 
-# 💧 Water Supply Management
-
-<div align="center">
-
-<img width="250" src="PASTE_WATER_SUPPLY_SCREENSHOT_HERE"/>
-
-</div>
-
-### Features
-
-- 💧 Water Monitoring
-- 📈 Progress Status
-- 📝 Complaint Reporting
-- ⭐ Citizen Feedback
+## 💧 Water Supply Management
+📸 Screenshot Added Successfully
 
 ---
 
-# 🏥 Health Camp Monitoring
-
-<div align="center">
-
-<img width="250" src="PASTE_HEALTH_CAMP_SCREENSHOT_HERE"/>
-
-</div>
-
-### Features
-
-- 🏥 Camp Tracking
-- 📋 Health Monitoring
-- ⭐ User Reviews
-- 📍 Navigation Support
+## 🏥 Health Camp Monitoring
+📸 Screenshot Added Successfully
 
 ---
 
-# 🌳 Tree Plantation Tracking
-
-<div align="center">
-
-<img width="250" src="PASTE_TREE_PLANTATION_SCREENSHOT_HERE"/>
-
-</div>
-
-### Features
-
-- 🌱 Plantation Monitoring
-- 📊 Growth Tracking
-- 📝 Complaint Management
-- ⭐ Rating System
+## 🌳 Tree Plantation Tracking
+📸 Screenshot Added Successfully
 
 ---
 
-# 🚨 Emergency Assistance
-
-<div align="center">
-
-<img width="250" src="PASTE_EMERGENCY_SCREENSHOT_HERE"/>
-
-<img width="250" src="PASTE_KANNADA_EMERGENCY_SCREENSHOT_HERE"/>
-
-</div>
-
-### Emergency Services
-
-- 🚑 Ambulance — 108
-- 👮 Police — 100
-- 🔥 Fire Rescue — 101
-- 👩 Women Helpline — 1091
+## 🚨 Emergency Assistance
+📸 Screenshot Added Successfully
 
 ---
 
-# 👤 User Profile Management
-
-<div align="center">
-
-<img width="250" src="PASTE_PROFILE_SCREENSHOT_HERE"/>
-
-<img width="250" src="PASTE_KANNADA_PROFILE_SCREENSHOT_HERE"/>
-
-</div>
-
-### Features
-
-- 👤 User Information
-- 📍 Address Storage
-- 📞 Contact Management
-- 🌐 Multi-language Support
+## 👤 Profile Management
+📸 Screenshot Added Successfully
 
 ---
 
@@ -169,25 +66,22 @@ The application helps citizens manage:
 
 | Technology | Purpose |
 |---|---|
-| Java | Android Development |
+| Kotlin | Android Development |
+| MainActivity.kt | Main Logic |
 | XML | UI Design |
-| Firebase | Database & Backend |
-| Android Studio | Application Development |
+| Firebase | Backend |
+| Android Studio | Development |
 | GitHub | Version Control |
-| Material Design | UI/UX |
 
 ---
 
-# 🌟 Key Features
+# 🎨 UI Features
 
-✨ Modern Pastel UI Design  
-✨ Smooth User Experience  
-✨ Multi-language Support  
-✨ Emergency Calling System  
-✨ Smart Village Monitoring  
-✨ Complaint Reporting  
-✨ Real-time Progress Tracking  
-✨ Beautiful Dashboard Interface  
+💜 Purple Minimal Theme  
+💜 Smooth Rounded Components  
+💜 Modern Dashboard Design  
+💜 Pastel Aesthetic UI  
+💜 Responsive Android Layout  
 
 ---
 
@@ -195,10 +89,36 @@ The application helps citizens manage:
 
 ```bash
 GramaSuvidhaNexus/
-│── app/
-│── java/
-│── xml/
-│── assets/
-│── screenshots/
-│── Firebase/
-│── README.md
+│
+├── app/
+├── MainActivity.kt
+├── java/
+├── res/
+├── drawable/
+├── layout/
+├── Firebase/
+├── AndroidManifest.xml
+└── README.md
+```
+
+---
+
+# 🚀 Future Enhancements
+
+- 🤖 AI Integration
+- 📡 Live Updates
+- 🌍 GPS Tracking
+- ☁ Cloud Synchronization
+- 🔔 Smart Notifications
+
+---
+
+# 👩‍💻 Developed By
+
+## Meghana 💜
+
+Smart Village Innovation Project
+
+---
+
+# 🌸 Thank You 🌸
