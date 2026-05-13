@@ -1,25 +1,25 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=0,2,5,10,15,20,25,30&text=Grama%20Suvidha%20Nexus&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Smart%20Village%20Development%20Platform&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=8A2BE2&text=Grama%20Suvidha%20Nexus&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Smart%20Village%20Development%20Platform&descAlignY=60"/>
 
-# 🌈 Grama Suvidha Nexus 🌈
+# 💜 Grama Suvidha Nexus 💜
 
 ### ✨ Smart Village Development & Emergency Assistance Platform ✨
 
 <br/>
 
-<img src="https://img.shields.io/badge/Android-App-ff69b4?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-Mobile%20Development-8a2be2?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/UI-Rainbow%20Theme-ff1493?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Design-Pastel%20Gradient-00cfff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Android-App-7C3AED?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-Mobile%20Development-A855F7?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/UI-Purple%20Minimal-C084FC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Theme-Smart%20Village-9333EA?style=for-the-badge"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2800&pause=1000&color=FF69B4&center=true&vCenter=true&width=1000&lines=Beautiful+Smart+Village+Platform;Rainbow+Pastel+UI+Experience;Emergency+Support+Application;Modern+Android+Dashboard"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2800&pause=1000&color=C084FC&center=true&vCenter=true&width=1000&lines=Modern+Smart+Village+Application;Elegant+Purple+Android+UI;Emergency+Support+Platform;Beautiful+Development+Dashboard"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=meghana1748&show_icons=true&theme=radical&hide_border=true&bg_color=00000000"/>
+<img src="https://github-readme-stats.vercel.app/api?username=meghana1748&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 </div>
 
@@ -27,20 +27,20 @@
 
 # 🌸 ABOUT THE PROJECT
 
-> Grama Suvidha Nexus is a modern Android application designed for smart village development, emergency accessibility, multilingual communication, and citizen engagement with a beautiful rainbow pastel aesthetic interface.
+> Grama Suvidha Nexus is a beautifully designed Android application focused on smart village development, multilingual accessibility, emergency support systems, and citizen engagement using a modern purple aesthetic inspired directly from the application UI.
 
 ---
 
-# ✨ APPLICATION EXPERIENCE
+# 💜 APPLICATION EXPERIENCE
 
-🌈 Rainbow Gradient Theme  
-💖 Pastel Aesthetic Design  
-📱 Elegant Mobile UI  
-🚨 Emergency Assistance  
-🌐 English & Kannada Support  
-🌳 Smart Village Monitoring  
-💧 Water Supply Tracking  
-🏥 Health Camp Management  
+✨ Elegant Purple Gradient UI  
+✨ Minimal Modern Dashboard  
+✨ Soft Glassmorphism Inspired Layout  
+✨ Smart Village Monitoring  
+✨ Emergency Accessibility  
+✨ Kannada & English Support  
+✨ Interactive Mobile Experience  
+✨ Clean Rounded Components  
 
 ---
 
@@ -70,7 +70,7 @@
 
 ---
 
-# 💧 Water Supply Monitoring
+# 💧 Water Supply Management
 
 <div align="center">
 
@@ -124,14 +124,14 @@
 
 ---
 
-# 🚀 FEATURES
+# ✨ FEATURES
 
 ```yaml
-🌈 Rainbow Pastel UI
+💜 Purple Minimal UI
 🌐 English & Kannada Support
 🚨 Emergency Calling System
-💧 Water Supply Management
-🏥 Health Camp Monitoring
+💧 Water Supply Monitoring
+🏥 Health Camp Management
 🌳 Tree Plantation Tracking
 🛣️ Smart Development Dashboard
 👤 User Profile Management
@@ -156,18 +156,17 @@
 
 ---
 
-# 🌈 RAINBOW COLOR PALETTE
+# 🎨 PROJECT COLOR PALETTE
 
 <div align="center">
 
-| Theme | Color |
+| 💜 Theme | 🎨 Color |
 |---|---|
-| 💖 Pink | #FF69B4 |
-| 💜 Purple | #8A2BE2 |
-| 💙 Sky Blue | #00CFFF |
-| 💚 Mint | #7CFC98 |
-| 💛 Soft Yellow | #FFE066 |
-| 🧡 Peach | #FFB347 |
+| Primary Purple | #7C3AED |
+| Soft Lavender | #C084FC |
+| Dark Purple | #6D28D9 |
+| Light Purple | #E9D5FF |
+| Dashboard Accent | #A855F7 |
 
 </div>
 
@@ -200,10 +199,10 @@ GramaSuvidhaNexus/
 
 # 🌟 FUTURE ENHANCEMENTS
 
-✨ AI Assistant  
+✨ AI Smart Assistant  
+✨ GPS Based Services  
 ✨ Smart Notifications  
-✨ GPS Tracking  
-✨ Cloud Sync  
+✨ Cloud Synchronization  
 ✨ Analytics Dashboard  
 ✨ AI Emergency Prediction  
 
@@ -223,16 +222,16 @@ Install directly on Android devices.
 
 <div align="center">
 
-# 🌸 Meghana Meghu 🌸
+# 💜 Meghana Meghu 💜
 
-### Building Smart & Beautiful Digital Solutions
+### Building Elegant Smart Solutions For Villages
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=gradient&customColorList=0,2,5,10,15,20,25,30&text=THANK%20YOU&fontColor=ffffff&fontSize=45"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=8A2BE2&text=THANK%20YOU&fontColor=ffffff&fontSize=45"/>
 
 <br/><br/>
 
-### 🌈 Elegant • Rainbow • Modern • Aesthetic 🌈
+### ✨ Purple • Elegant • Modern • Minimal ✨
 
 </div>
