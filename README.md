@@ -1,263 +1,247 @@
 <div align="center">
 
-# 🌸 Grama Suvidha Nexus
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=0,2,5,30&text=Grama%20Suvidha%20Nexus&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Smart%20Village%20Development%20Platform&descAlignY=60"/>
 
-### *Smart Village Development & Emergency Assistance Platform*
+# 🌸💗 Grama Suvidha Nexus 💗🌸
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=8A2BE2&text=Grama%20Suvidha%20Nexus&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Smart%20Village%20Development%20Platform&descAlignY=58"/>
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-Android-purple?style=for-the-badge&logo=kotlin"/>
-  <img src="https://img.shields.io/badge/Platform-Android-7F52FF?style=for-the-badge&logo=android"/>
-  <img src="https://img.shields.io/badge/UI-Material%20Design-9C6BFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Language-English%20%7C%20Kannada-C084FC?style=for-the-badge"/>
-</p>
+### ✨ Smart Village Development & Emergency Assistance Platform ✨
 
 <br/>
 
-> ✨ A beautifully designed smart village management application that helps citizens track development works, raise complaints, navigate projects, and access emergency support instantly.
+<img src="https://img.shields.io/badge/Android-App-F9A8D4?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-Mobile%20Development-FBCFE8?style=for-the-badge&logo=kotlin&logoColor=black"/>
+<img src="https://img.shields.io/badge/UI-Pastel%20Pink-F9A8D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Theme-Baby%20Pink-FBCFE8?style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2800&pause=1000&color=F9A8D4&center=true&vCenter=true&width=1000&lines=Elegant+Smart+Village+Application;Pastel+Pink+Minimal+UI;Emergency+Support+Platform;Modern+Android+Experience"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=meghana1748&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000"/>
 
 </div>
 
 ---
 
-# ✨ Overview
+# 🌸 ABOUT THE PROJECT
 
-Grama Suvidha Nexus is a modern Android application created to improve communication between citizens and local development systems.
-
-The application allows users to:
-
-✅ Track village development works  
-✅ Submit public issues  
-✅ Monitor project completion progress  
-✅ Access emergency services instantly  
-✅ Switch between English & Kannada  
-✅ Navigate through smart village services easily  
+> Grama Suvidha Nexus is a beautifully designed Android application focused on smart village development, multilingual accessibility, emergency assistance, and citizen engagement with a soft pastel aesthetic interface.
 
 ---
 
-# 🎨 UI Features
+# 💗 APPLICATION EXPERIENCE
 
-✨ Purple Gradient Aesthetic UI  
-✨ Clean Minimal Design  
-✨ Smooth User Experience  
-✨ Mobile Friendly Layout  
-✨ Bilingual Interface  
-✨ Soft Rounded Components  
-✨ Emergency Assistance System  
-✨ Smart Progress Tracking  
+✨ Soft Pastel Pink Theme  
+✨ Eye Pleasing UI  
+✨ Elegant Mobile Design  
+✨ Smooth Navigation Experience  
+✨ Smart Village Monitoring  
+✨ Emergency Accessibility  
+✨ English & Kannada Support  
+✨ Minimal Clean Layouts  
 
 ---
 
-# 📱 Application Screens
+# 📱 APPLICATION PREVIEW
 
-<br/>
+---
+
+# 🌸 Welcome Screens
 
 <div align="center">
 
-# 🌸 Welcome Screen (English)
+<img src="./screenshots/welcome_english.jpg" width="250"/>
 
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/android/android.png" width="230"/>
-
-<br/><br/>
-
-# 🌸 Welcome Screen (Kannada)
-
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png" width="230"/>
-
-<br/><br/>
-
-# 🏠 Smart Dashboard
-
-<img width="250" src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=800&auto=format&fit=crop"/>
-
-<img width="250" src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=800&auto=format&fit=crop"/>
-
-<img width="250" src="https://images.unsplash.com/photo-1516321497487-e288fb19713f?q=80&w=800&auto=format&fit=crop"/>
-
-<br/><br/>
-
-# 🚨 Emergency Support
-
-<img width="250" src="https://images.unsplash.com/photo-1584515933487-779824d29309?q=80&w=800&auto=format&fit=crop"/>
+<img src="./screenshots/welcome_kannada.jpg" width="250"/>
 
 </div>
 
 ---
 
-# 🚀 Main Modules
+# 🏠 Smart Dashboard
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-## 🛣️ Smart Road Development
+<img src="./screenshots/dashboard_main.jpg" width="270"/>
 
-- Track development progress
-- Submit complaints
-- View completion percentage
-- Navigation support
+</div>
 
 ---
 
-## 💧 Water Supply Management
+# 💧 Water Supply Management
 
-- Water monitoring
-- Citizen issue reporting
-- Real time updates
+<div align="center">
 
----
+<img src="./screenshots/water_supply.jpg" width="270"/>
 
-## 🏥 Health Camp
-
-- Health campaign awareness
-- Community support system
-- Progress tracking
-
-</td>
-
-<td width="50%">
-
-## 🌳 Tree Plantation
-
-- Green initiative tracking
-- Plantation awareness
-- Environmental development
+</div>
 
 ---
 
-## 🚨 Emergency Module
+# 🏥 Health Camp Monitoring
 
-- 🚑 Ambulance
-- 👮 Police
-- 🔥 Fire Rescue
-- 👩 Women Helpline
+<div align="center">
 
----
+<img src="./screenshots/health_camp.jpg" width="270"/>
 
-## 🌐 Language Support
-
-- English
-- Kannada
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-# 🛠️ Tech Stack
+# 🌳 Tree Plantation Tracking
+
+<div align="center">
+
+<img src="./screenshots/tree_plantation.jpg" width="270"/>
+
+</div>
+
+---
+
+# 🚨 Emergency Assistance
+
+<div align="center">
+
+<img src="./screenshots/emergency_english.jpg" width="250"/>
+
+<img src="./screenshots/emergency_kannada.jpg" width="250"/>
+
+</div>
+
+---
+
+# 👤 User Profile Management
+
+<div align="center">
+
+<img src="./screenshots/profile_english.jpg" width="250"/>
+
+<img src="./screenshots/profile_kannada.jpg" width="250"/>
+
+</div>
+
+---
+
+# ✨ FEATURES
 
 ```yaml
-Language      : Kotlin
-Platform      : Android
-UI Design     : XML
-IDE           : Android Studio
-Architecture  : Activity Based
-Database      : Firebase / Local Storage
-Design Theme  : Purple Minimal UI
+🌸 Beautiful Pastel Pink UI
+🌐 English & Kannada Support
+🚨 Emergency Calling System
+💧 Water Supply Monitoring
+🏥 Health Camp Management
+🌳 Tree Plantation Tracking
+🛣️ Smart Development Dashboard
+👤 User Profile Management
+📱 Smooth Android Experience
 ```
 
 ---
 
-# 📂 Project Structure
+# 🛠️ TECH STACK
+
+<div align="center">
+
+| Technology | Usage |
+|---|---|
+| Kotlin | Android Development |
+| XML | UI Design |
+| Android Studio | IDE |
+| Firebase | Backend |
+| Material UI | Components |
+
+</div>
+
+---
+
+# 🎨 PASTEL COLOR PALETTE
+
+<div align="center">
+
+| 🌸 Theme | 🎨 Color |
+|---|---|
+| Baby Pink | #FBCFE8 |
+| Soft Pink | #F9A8D4 |
+| Lavender | #E9D5FF |
+| Pastel Purple | #D8B4FE |
+| Background | #FFF1F2 |
+
+</div>
+
+---
+
+# 📂 PROJECT STRUCTURE
 
 ```bash
 GramaSuvidhaNexus/
 │
 ├── app/
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── java/
-│   │   │   ├── res/
-│   │   │   ├── AndroidManifest.xml
-│   │
-│   ├── build.gradle.kts
 │
 ├── screenshots/
+│   ├── welcome_english.jpg
+│   ├── welcome_kannada.jpg
+│   ├── dashboard_main.jpg
+│   ├── water_supply.jpg
+│   ├── health_camp.jpg
+│   ├── tree_plantation.jpg
+│   ├── emergency_english.jpg
+│   ├── emergency_kannada.jpg
+│   ├── profile_english.jpg
+│   └── profile_kannada.jpg
 │
 ├── README.md
-│
 └── app-debug.apk
 ```
 
 ---
 
-# 🌟 Key Functionalities
+# 🌸 FUTURE ENHANCEMENTS
 
-✅ User Registration  
-✅ Profile Upload  
-✅ Complaint Submission  
-✅ Development Tracking  
-✅ Rating System  
-✅ Emergency Calling  
-✅ Smart Dashboard  
-✅ Navigation Button  
-✅ Responsive Mobile UI  
+✨ AI Village Assistant  
+✨ Live GPS Tracking  
+✨ Smart Analytics Dashboard  
+✨ Push Notifications  
+✨ Cloud Synchronization  
+✨ AI Emergency Prediction  
 
 ---
 
-# 📸 Screens Included
+# 📦 APK FILE
 
-| Screen | Description |
-|--------|-------------|
-| Welcome Screen | Language selection & profile setup |
-| Dashboard | Smart village monitoring |
-| Road Development | Track road progress |
-| Water Supply | Water issue management |
-| Health Camp | Health awareness |
-| Tree Plantation | Green initiative tracking |
-| Emergency Services | Quick emergency access |
+```bash
+app-debug.apk
+```
+
+Install directly on Android devices.
 
 ---
 
-# 💜 Design Inspiration
-
-The application follows:
-
-✨ Soft Purple Minimalism  
-✨ Modern Android UI Principles  
-✨ Smooth Rounded Layout Design  
-✨ Elegant Typography  
-✨ Citizen Friendly Navigation  
-
----
-
-# 🔮 Future Enhancements
-
-- 🔔 Push Notifications
-- ☁️ Cloud Synchronization
-- 📍 Live GPS Tracking
-- 🤖 AI Complaint Analysis
-- 🌙 Dark Mode
-- 📊 Admin Analytics Dashboard
-
----
-
-# 👩‍💻 Developed By
+# ⏰ LIVE DEVELOPMENT TIME
 
 <div align="center">
 
-# 💜 Meghana Meghu
-
-### *Smart Solutions for Smart Villages*
+### 💗 Currently Building Smart Digital Experiences 💗
 
 </div>
 
 ---
 
-# 🌸 Project Vision
-
-> “Empowering villages digitally through technology, accessibility, transparency, and smart governance.”
-
----
+# 💻 DEVELOPED BY
 
 <div align="center">
 
-# ⭐ Thank You ⭐
+# 🌸 Meghana Meghu 🌸
 
-### Made with 💜 using Kotlin & Android Studio
+### Building Elegant & Smart Solutions For Villages
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=gradient&customColorList=0,2,5,30&text=THANK%20YOU&fontColor=ffffff&fontSize=45"/>
+
+<br/><br/>
+
+### ✨ Pastel • Elegant • Minimal • Modern ✨
 
 </div>
