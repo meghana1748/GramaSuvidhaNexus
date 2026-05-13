@@ -17,34 +17,29 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2800&pause=1000&color=C084FC&center=true&vCenter=true&width=1000&lines=Modern+Smart+Village+Application;Elegant+Purple+Android+UI;Emergency+Support+Platform;Beautiful+Development+Dashboard"/>
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=meghana1748&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
 </div>
 
 ---
 
 # 🌸 ABOUT THE PROJECT
 
-> Grama Suvidha Nexus is a beautifully designed Android application focused on smart village development, multilingual accessibility, emergency support systems, and citizen engagement using a modern purple aesthetic inspired directly from the application UI.
+> Grama Suvidha Nexus is a modern Android application focused on smart village development, emergency accessibility, multilingual support, and citizen engagement using an elegant purple-themed interface inspired directly from the application design.
 
 ---
 
 # 💜 APPLICATION EXPERIENCE
 
 ✨ Elegant Purple Gradient UI  
-✨ Minimal Modern Dashboard  
-✨ Soft Glassmorphism Inspired Layout  
+✨ Modern Minimal Dashboard  
 ✨ Smart Village Monitoring  
 ✨ Emergency Accessibility  
 ✨ Kannada & English Support  
 ✨ Interactive Mobile Experience  
-✨ Clean Rounded Components  
+✨ Smooth Rounded Components  
 
 ---
 
-# 📱 APPLICATION PREVIEW
+# 📱 APPLICATION SCREENSHOTS
 
 ---
 
@@ -52,8 +47,10 @@
 
 <div align="center">
 
+<!-- ADD SCREENSHOT HERE -->
 <img src="./screenshots/welcome_english.jpg" width="250"/>
 
+<!-- ADD SCREENSHOT HERE -->
 <img src="./screenshots/welcome_kannada.jpg" width="250"/>
 
 </div>
@@ -64,6 +61,7 @@
 
 <div align="center">
 
+<!-- ADD SCREENSHOT HERE -->
 <img src="./screenshots/dashboard_main.jpg" width="270"/>
 
 </div>
@@ -74,6 +72,7 @@
 
 <div align="center">
 
+<!-- ADD SCREENSHOT HERE -->
 <img src="./screenshots/water_supply.jpg" width="270"/>
 
 </div>
@@ -84,6 +83,7 @@
 
 <div align="center">
 
+<!-- ADD SCREENSHOT HERE -->
 <img src="./screenshots/health_camp.jpg" width="270"/>
 
 </div>
@@ -94,7 +94,10 @@
 
 <div align="center">
 
-<img src="./screenshots/tree_plantation.jpg" width="270"/>
+## 🌱 Screenshot Coming Soon 🌱
+
+<!-- ADD SCREENSHOT HERE LATER -->
+<!-- <img src="./screenshots/tree_plantation.jpg" width="270"/> -->
 
 </div>
 
@@ -104,8 +107,10 @@
 
 <div align="center">
 
+<!-- ADD SCREENSHOT HERE -->
 <img src="./screenshots/emergency_english.jpg" width="250"/>
 
+<!-- ADD SCREENSHOT HERE -->
 <img src="./screenshots/emergency_kannada.jpg" width="250"/>
 
 </div>
@@ -116,8 +121,10 @@
 
 <div align="center">
 
+<!-- ADD SCREENSHOT HERE -->
 <img src="./screenshots/profile_english.jpg" width="250"/>
 
+<!-- ADD SCREENSHOT HERE -->
 <img src="./screenshots/profile_kannada.jpg" width="250"/>
 
 </div>
@@ -185,7 +192,6 @@ GramaSuvidhaNexus/
 │   ├── dashboard_main.jpg
 │   ├── water_supply.jpg
 │   ├── health_camp.jpg
-│   ├── tree_plantation.jpg
 │   ├── emergency_english.jpg
 │   ├── emergency_kannada.jpg
 │   ├── profile_english.jpg
