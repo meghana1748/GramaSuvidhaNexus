@@ -2,145 +2,188 @@
 
 # 💜 Grama Suvidha Nexus 💜
 
-### ✨ AI Powered Smart Village Governance Platform ✨
+### ✨ Smart Village Development & Emergency Assistance Platform ✨
 
-<img src="https://img.icons8.com/fluency/240/city-buildings.png" width="120"/>
+<br>
 
----
-
-🚀 Smart Governance  
-🌐 Kannada ↔ English Support  
-📍 Emergency Assistance  
-📊 Project Monitoring  
-💜 Glassmorphism UI  
-⚡ Jetpack Compose Powered  
-
----
+![Kotlin](https://img.shields.io/badge/Kotlin-MainActivity.kt-8A2BE2?style=for-the-badge)
+![Android](https://img.shields.io/badge/Android-Studio-BB86FC?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-Backend-C084FC?style=for-the-badge)
+![UI](https://img.shields.io/badge/UI-Pastel_Purple-A855F7?style=for-the-badge)
 
 </div>
 
-# 🌟 About The Project
+---
 
-Grama Suvidha Nexus is a futuristic Android application developed using Kotlin and Jetpack Compose focused on smart village governance, emergency assistance, project monitoring, and multilingual accessibility.
+# 🌸 About The Project
 
-The application enables citizens to monitor village development activities, submit issues, rate projects, access emergency services, and use Kannada ↔ English translation dynamically.
+Grama Suvidha Nexus is a modern Android application developed using **Kotlin (MainActivity.kt)** focused on smart village governance, emergency assistance, sustainability monitoring, and multilingual accessibility.
 
-# ✨ Features
+The application provides a beautiful pastel purple user experience while helping rural communities through digital innovation.
 
-- 🔐 Login Screen
-- 🌐 English ↔ Kannada Translation
-- 📷 Upload Profile Picture
-- 🏠 Smart Home Dashboard
-- 📊 Project Progress Tracking
-- ⭐ Editable Ratings
-- 🚨 Emergency Calling
-- 🧭 Google Navigation Support
-- 👤 Profile Management
-- 📱 Responsive UI
-- 💜 Modern Glassmorphism Design
+---
 
-# 📱 Screens Included
-
-## 1. Login Screen
-- English ↔ Kannada Toggle
-- Upload Image
-- Username Input
-- Continue Button
-
-## 2. Home Screen
-- Dynamic Greeting
-- Floating Project Cards
-- Floating Event Cards
-- Bottom Navigation
-
-## 3. Project Screen
-- Smart Road Development
-- Water Distribution Network
-- Solar Energy Installation
-- Editable Progress Bar
-- Issue Submission
-- Submit Toast Message
-- Navigation Button
-
-## 4. Event Screen
-- Health Camp
-- Farmers Meeting
-- Women Safety Workshop
-- Ratings
-- Progress Tracking
-
-## 5. Emergency Screen
-- Ambulance – 108
-- Police – 100
-- Fire Rescue – 101
-- Women Helpline – 1091
-- Direct Call Support
-
-## 6. Profile Screen
-- Uploaded Profile Photo
-- User Details
-- Language Preference
-- Edit Profile
-- Logout Button
-
-# 🛠️ Technologies Used
-
-- Kotlin
-- Jetpack Compose
-- Material 3
-- Android Studio
-- Firebase
-- Google Maps
-
-# 📂 Project Structure
-
-GramaSuvidhaNexus/
-│
-├── README.md
-├── build.gradle.kts
-├── settings.gradle.kts
-│
-├── app/
-│   ├── build.gradle.kts
-│   │
-│   └── src/main/
-│       ├── AndroidManifest.xml
-│       │
-│       ├── java/com/example/gramasuvidhanexus/
-│       │   ├── MainActivity.kt
-│       │   ├── LoginScreen.kt
-│       │   ├── HomeScreen.kt
-│       │   ├── ProjectScreen.kt
-│       │   ├── EventScreen.kt
-│       │   ├── EmergencyScreen.kt
-│       │   ├── ProfileScreen.kt
-│       │   └── Navigation.kt
-│       │
-│       └── res/
-│           ├── values/
-│           │   ├── colors.xml
-│           │   ├── themes.xml
-│           │   └── strings.xml
-│           │
-│           └── values-kn/
-│               └── strings.xml
-
-# 🚀 Future Enhancements
-
-- Live Firebase Database
-- Real-time Project Updates
-- GPS Tracking
-- AI Chat Assistant
-- Voice Support
-- Admin Dashboard
-
-# 🎯 Developed For
-
-VTU Internship Project  
-Smart Village Digital Governance System
+# ✨ Core Modules
 
 <div align="center">
 
-💜 Built using Kotlin + Jetpack Compose 💜
+| 💜 Module | 🌸 Description |
+|---|---|
+| 🚧 Smart Road Development | Track village infrastructure progress |
+| 💧 Water Supply Management | Monitor water-related activities |
+| 🏥 Health Camp Monitoring | Manage health awareness campaigns |
+| 🌳 Tree Plantation Tracking | Environmental sustainability monitoring |
+| 🚨 Emergency Assistance | One-tap emergency support system |
+| 👤 Profile Management | User information & personalization |
+| 🌐 Multi-language Support | Kannada & English accessibility |
+
+</div>
+
+---
+
+# 📱 Application Preview
+
+---
+
+## 🌸 Welcome Screen
+
+
+
+## 🏠 Dashboard Screen
+
+
+## 🚧 Smart Road Development
+
+
+
+## 💧 Water Supply Management
+
+
+
+## 🏥 Health Camp Monitoring
+
+
+## 🌳 Tree Plantation Tracking
+
+
+
+## 🚨 Emergency Assistance
+
+
+
+## 👤 Profile Management
+
+
+# 💻 Technologies Used
+
+<div align="center">
+
+| 💜 Technology | ✨ Purpose |
+|---|---|
+| Kotlin | Android Application Development |
+| MainActivity.kt | Main Application Logic |
+| XML | UI Design |
+| Firebase | Database & Backend Services |
+| Android Studio | Development Environment |
+| GitHub | Version Control & Deployment |
+| Material Design | UI/UX Components |
+
+</div>
+
+---
+
+# 🎨 UI / UX Highlights
+
+💜 Pastel Purple Theme  
+💜 Smooth Rounded Components  
+💜 Minimal Modern Layout  
+💜 Elegant Dashboard Design  
+💜 Responsive Mobile UI  
+💜 Soft Gradient Styling  
+💜 User Friendly Navigation  
+
+---
+
+# 📂 Complete Project Structure
+
+```bash
+GramaSuvidhaNexus/
+│
+├── app/
+│   │
+│   ├── src/
+│   │   │
+│   │   ├── main/
+│   │   │   │
+│   │   │   ├── java/
+│   │   │   │   └── com/example/gramasuvidhanexus/
+│   │   │   │       ├── MainActivity.kt
+│   │   │   │       ├── DashboardActivity.kt
+│   │   │   │       ├── EmergencyActivity.kt
+│   │   │   │       ├── WaterSupplyActivity.kt
+│   │   │   │       ├── HealthCampActivity.kt
+│   │   │   │       ├── TreePlantationActivity.kt
+│   │   │   │       └── ProfileActivity.kt
+│   │   │   │
+│   │   │   ├── res/
+│   │   │   │   ├── drawable/
+│   │   │   │   ├── layout/
+│   │   │   │   ├── values/
+│   │   │   │   └── mipmap/
+│   │   │   │
+│   │   │   └── AndroidManifest.xml
+│   │
+│   ├── build.gradle.kts
+│   └── proguard-rules.pro
+│
+├── gradle/
+├── Firebase/
+├── README.md
+└── app-debug.apk
+```
+
+---
+
+# 🌟 Key Features
+
+✨ Smart Village Dashboard  
+✨ Emergency Calling System  
+✨ Progress Monitoring  
+✨ Complaint Reporting  
+✨ Sustainability Tracking  
+✨ Multi-language Interface  
+✨ Beautiful Purple Aesthetic UI  
+✨ Modern Android Experience  
+
+---
+
+# 🚀 Future Enhancements
+
+- 🤖 AI Smart Monitoring
+- 📡 Live Government Updates
+- 🌍 GPS Integration
+- ☁ Cloud Synchronization
+- 🔔 Real-time Notifications
+- 📊 Smart Analytics Dashboard
+
+---
+
+# 👩‍💻 Developed By
+
+<div align="center">
+
+# 💜 Meghana 💜
+
+### Smart Village Innovation • Android Development • Rural Technology
+
+</div>
+
+---
+
+<div align="center">
+
+# 🌸 Thank You 🌸
+
+### Empowering Villages Through Technology 💜
 
 </div>
